@@ -34,3 +34,7 @@ At first almost every test fails: that is expected. Each method you finish turns
 - Decide first: do you need the index (`for`), or just each element (`foreach`)?
 - Indexes go from `0` to `Length - 1`. Check your loop's condition for an off-by-one mistake.
 - For a total, start at 0 and add each element. For a highest or lowest, start with an element from the array and replace it when you find a better one. For `LowestPrice`, skip the refunds first: start with the first price above 0.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
