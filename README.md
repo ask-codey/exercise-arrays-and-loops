@@ -1,8 +1,8 @@
-# Practice: Arrays and Loops
+# Exercise: Arrays and Loops
 
-Practice code for the lesson **Practice: Arrays and Loops** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Arrays and Loops** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-Seventeen small problems with arrays, in four classes in the `ArraysPractice` project:
+Seventeen small problems with arrays, in four classes in the `ArraysExercise` project:
 
 - `Calendar.cs`: days of the week and months of the year
 - `NumberLists.cs`: filling arrays with numbers, and adding them up in different ways
@@ -14,10 +14,10 @@ Every method returns an empty array, `0`, `""` or `false` for now. The comment a
 ## Run it
 
 ```bash
-dotnet run --project ArraysPractice
+dotnet run --project ArraysExercise
 ```
 
-In Visual Studio, open `ArraysPractice.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
+In Visual Studio, open `ArraysExercise.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
 
 ## Check your work
 

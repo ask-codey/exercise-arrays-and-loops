@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArraysExercise/ArraysExercise.csproj" />
+  <Project Path="ArraysExercise.Tests/ArraysExercise.Tests.csproj" />
+</Solution>
